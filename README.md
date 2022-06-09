@@ -6,7 +6,8 @@
 
 $ git clone https://github.com/SALITERUX/Massar-Phish 
 
-$ cd Massar Phish 
+$ cd Massar-Phish
+
 
 $ bash setup.sh
 
